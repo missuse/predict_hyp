@@ -6,10 +6,10 @@ To run it:
 
 shiny::runGitHub("missuse/predict_hyp")
 
-required packages:
+required packages:  
 
-`library(xgboost)`
-`library(plotly)`
-`library(shiny)`
-`library(shinyjs)`
-`library(ragp)`
+`library(xgboost)`  
+`library(plotly)`  
+`library(shiny)`  
+`library(shinyjs)`  
+`library(ragp)`  
