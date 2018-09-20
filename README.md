@@ -16,5 +16,5 @@ required packages:
 
 You can install ragp from github with:
 
-`# install.packages("devtools")`
-`devtools::install_github("missuse/ragp")`
+`# install.packages("devtools")`  
+`devtools::install_github("missuse/ragp")`  
